@@ -27,7 +27,7 @@ Customers can explore the menu, customize pizzas, manage their cart, and place o
 
 ## 📸 Screenshots
 
-**Homepage: Type your name and you're ready to explore the world of pizza! 🍕**
+**🏠 Homepage: Type your name and you're ready to explore the world of pizza!**
 
 ![home 1](https://github.com/user-attachments/assets/6357b684-066e-442d-a50c-497e7fdc8103)
 
