@@ -12,6 +12,8 @@ Customers can explore the menu, customize pizzas, manage their cart, and place o
 - Form validation and smooth order checkout
 - Responsive design optimized with **Tailwind CSS**
 - Optimized, modular, and scalable codebase
+- Real-time address fetching** using `navigator.geolocation` and posting to the [BigDataCloud API](https://api.bigdatacloud.net/data/reverse-geocode-client) to get address from user's location
+- Order tracking** by **Order ID** for past orders
 
 ---
 
@@ -25,11 +27,8 @@ Customers can explore the menu, customize pizzas, manage their cart, and place o
 
 ## 📸 Screenshots
 
-> _Add your screenshots here!_  
-> Example:
-> - Homepage
-> - Pizza menu
-> - Cart and checkout flow
+**Homepage**
+
 
 ---
 
